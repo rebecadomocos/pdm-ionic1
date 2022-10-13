@@ -1,0 +1,7 @@
+{
+  "name": "tema1-ionic1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
